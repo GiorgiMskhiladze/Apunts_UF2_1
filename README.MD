@@ -37,6 +37,6 @@ Se examinará el código fuente y su estructura
 
 Tendremos pruebas **funcionales** y **no funcionales**.
 
-+ **Funcionales:** pruebas que miran que el codigo se ejecute y no de error en ninguna parte.
-+ **No funcionales:** se mira el rendimiento del programa, tiempo de ejecución, uso de variables, longitud de código, etc.
+  + **Funcionales:** pruebas que miran que el codigo se ejecute y no de error en ninguna parte.
+  + **No funcionales:** se mira el rendimiento del programa, tiempo de ejecución, uso de variables, longitud de código, etc.
 
