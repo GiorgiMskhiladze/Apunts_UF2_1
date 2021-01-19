@@ -46,3 +46,21 @@ Tendremos pruebas **funcionales** y **no funcionales**.
     + Pruebas realizadas por personal de la empresa o externa
   + **Automático**
     + Software que nos ejecutara el código y nos mostrará los resultados obtenidos por nuestro código y lo resultados esperados.
+
+## Integración
+Las pruebas integrales o de integración, son aquellas que se realizan durante el desarrollo del software una vez que se han aprobado las pruebas unitarias previamente comentadas.
+
+El **objetivo**, es comprobar el correcto ensamblaje entre los distintos componentes que se han ido probando durante la fase del desarrollo.
+
+## Cobertura del código
++ Se usa para indicar el porcentaje de cdigo que ha sido ejecutado durante las pruebas.
++ Lo mejor esque este lo más cerca del 100%, asi no tendremos líneas de código sin usar.
++ La cobertura se puede llevar a cabo tanto desde el IDE, como desde un servicio web apropiado.
+
+## Calidad
+Para ver si nuestro código fuente está bien diseñada, tendremos que hacer un control de calidad, en esta, miraremos la **calidad en los procesos** y la **calidad de los productos**.
++ **Calidad en los procesos**: son los metodos, procesos, líneas de código que usamos, y se mira si está bien estructurado, si tiene lógica las funcionalidades que hacen, etc.
++ **Calidad de los productos**: se mira que no haya ningun defecto en el producto final producido.
+
+## Factores de calidad
+Los factores de calidad, se basan en el **Modelo de Calidad de McCall**, en la que se tiene 3 grandes grupos: **Revisión**, **Operación**, **Transición**
