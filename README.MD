@@ -59,8 +59,8 @@ El **objetivo**, es comprobar el correcto ensamblaje entre los distintos compone
 
 ## Calidad
 Para ver si nuestro código fuente está bien diseñada, tendremos que hacer un control de calidad, en esta, miraremos la **calidad en los procesos** y la **calidad de los productos**.
-+ **Calidad en los procesos**: son los metodos, procesos, líneas de código que usamos, y se mira si está bien estructurado, si tiene lógica las funcionalidades que hacen, etc.
-+ **Calidad de los productos**: se mira que no haya ningun defecto en el producto final producido.
++ **Calidad en los procesos (QA)**: son los metodos, procesos, líneas de código que usamos, y se mira si está bien estructurado, si tiene lógica las funcionalidades que hacen, etc.
++ **Calidad de los productos (QC)**: se mira que no haya ningun defecto en el producto final producido.
 
 ## Factores de calidad
 Los factores de calidad, se basan en el **Modelo de Calidad de McCall**, en la que se tiene 3 grandes grupos: **Revisión**, **Operación**, **Transición**
